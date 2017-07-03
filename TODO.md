@@ -13,4 +13,4 @@
   - https://github.com/eduardolundgren/tracking.js/pull/164 - Creating conversor from haarcascade to tracking.js array
   - https://github.com/eduardolundgren/tracking.js/pull/144 Regressing Local Binary Features more details on face detection
   - https://github.com/eduardolundgren/tracking.js/pull/131 <- merge or close
-- ```gulp test``` fails
+- ```gulp test``` fails in the benchmarks
